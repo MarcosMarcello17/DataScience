@@ -43,6 +43,5 @@ Recordar que en GradientBoosting tomaremos un max_depth = 1
 - Realizar la matriz de confusión correspondiente para ambos modelos.
 - Retornar para cada caso los clasificadores débiles que utilizó el algoritmo. Mostrar 
 gráficamente un árbol a elección. 
-Modelos y Simulación 2do Cuatrimestre 2021
 - Indicar para cada caso si para la configuración dada nos encontramos con un caso de 
 overfitting. En caso afirmativo, indicar qué parámetros modificaría para evitar esto.
